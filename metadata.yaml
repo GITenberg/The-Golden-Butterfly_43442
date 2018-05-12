@@ -1,0 +1,35 @@
+_repo: The-Golden-Butterfly_43442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43442-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Rice, James
+    birthdate: 1843
+    deathdate: 1882
+    gutenberg_agent_id: '42207'
+    url: http://www.gutenberg.org/2009/agents/42207
+  - agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2013-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+title: The Golden Butterfly
+url: http://www.gutenberg.org/ebooks/43442
